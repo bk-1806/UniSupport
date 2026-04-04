@@ -1,0 +1,3 @@
+Attendance must be at least 75 percent.
+Students below 75 percent may not be allowed to attend exams.
+Medical exceptions are allowed with proof.

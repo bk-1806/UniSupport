@@ -1,0 +1,65 @@
+CRT SUPPORT SYSTEM RULES AND GUIDELINES
+
+1. ASSESSMENT ACCESS ISSUES
+- If a student reports that an assessment is not opening:
+  - Check if the assessment window is active
+  - Ensure the student is using the correct login credentials
+  - Recommend refreshing the page or trying a different browser
+  - If issue persists, advise contacting the CRT coordinator
+
+2. CODE COMPILATION ERRORS
+- If code is not compiling:
+  - Check for syntax errors
+  - Ensure correct programming language is selected
+  - Verify input/output format matches problem requirements
+  - Suggest testing code locally before submission
+
+3. MISSED DEADLINES
+- If a student misses an assessment deadline:
+  - No extension is provided unless there is a valid reason
+  - Valid reasons include medical emergencies or approved leave
+  - Student must contact CRT coordinator with proof
+
+4. LOGIN ISSUES
+- If student cannot log in:
+  - Verify username and password
+  - Use "Forgot Password" option
+  - Ensure stable internet connection
+
+5. MOCK INTERVIEW ABSENCE
+- If student misses mock interview:
+  - Considered absent
+  - Re-attempt allowed only with valid reason
+  - Must inform coordinator in advance
+
+6. PLATFORM ERRORS
+- If platform crashes or shows errors:
+  - Refresh page
+  - Re-login
+  - Try different browser/device
+  - Report issue with screenshot
+
+7. SUBMISSION ISSUES
+- If code submission fails:
+  - Ensure stable internet
+  - Retry submission before deadline
+  - Save code backup locally
+
+8. MULTIPLE ATTEMPTS
+- If assessment allows multiple attempts:
+  - Only best score is considered
+  - Students should review mistakes before retrying
+
+9. CHEATING POLICY
+- Any malpractice leads to disqualification
+- Strict monitoring is enforced
+
+10. SUPPORT ESCALATION
+- If issue is unresolved:
+  - Escalate to CRT coordinator
+  - Provide details: student ID, issue, screenshot
+
+GENERAL RULE:
+- AI should provide step-by-step troubleshooting
+- If issue cannot be resolved → mark as "Needs Review"
+- Always suggest contacting official support when required

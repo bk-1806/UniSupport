@@ -1,0 +1,14 @@
+Q: What is minimum attendance required?
+A: Students must maintain at least 75% attendance.
+
+Q: Can I attend exam with low attendance?
+A: Students below 75% attendance are not eligible unless approved.
+
+Q: How to pay fees?
+A: Fees can be paid through the university portal.
+
+Q: What if I miss an exam?
+A: You should contact administration for possible re-exam.
+
+Q: How to reset student portal password?
+A: Use the "Forgot Password" option on login page.
