@@ -211,6 +211,7 @@ start.bat
 | Memory footprint | ~50MB |
 | Frontend navigation | < 200ms (Turbopack + prefetch) |
 
+link :- https://uni-support-git-ai-rag-abhinaymentes-projects.vercel.app/
 ---
 
 *UniSupport AI — Problem Statement AI05 — GITAM University*
